@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<KeyValuePair<string, object>>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to staging environment</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <ul>
+        @foreach(var kvp in Model){
+            <li>@kvp.Key : @kvp.Value</li>
+        }
+    </ul>
+</div>
