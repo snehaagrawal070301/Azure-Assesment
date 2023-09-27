@@ -1353,11 +1353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adars\\OneDrive\\Desktop\\WeaatherForecastApp\\WeaatherForecastApp.csproj",
+      "projectUniqueName": "C:\\Users\\adars\\OneDrive\\Desktop\\Azure-Assesment\\managed-identity-app-config\\WeaatherForecastApp.csproj",
       "projectName": "WeaatherForecastApp",
-      "projectPath": "C:\\Users\\adars\\OneDrive\\Desktop\\WeaatherForecastApp\\WeaatherForecastApp.csproj",
+      "projectPath": "C:\\Users\\adars\\OneDrive\\Desktop\\Azure-Assesment\\managed-identity-app-config\\WeaatherForecastApp.csproj",
       "packagesPath": "C:\\Users\\adars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adars\\OneDrive\\Desktop\\WeaatherForecastApp\\obj\\",
+      "outputPath": "C:\\Users\\adars\\OneDrive\\Desktop\\Azure-Assesment\\managed-identity-app-config\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adars\\AppData\\Roaming\\NuGet\\NuGet.Config",

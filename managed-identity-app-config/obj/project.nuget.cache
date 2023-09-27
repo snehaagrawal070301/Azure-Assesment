@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w4Blt8EcEOI4KjqMDgwfMt8HVYHbDPkBVqiL8FKWhI65W+KPAbzMdor0cOMeWZW7pKxUrCGxuZZcdHJTEWDp5g==",
+  "dgSpecHash": "VeFDzCtb/cNQQTUzzhqKkJH+YuXm64rSf1nHMZyfkryEPXId1fuXBQrlc3jQBKV+eT5/quyvPJDa8DywvbdYIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adars\\OneDrive\\Desktop\\WeaatherForecastApp\\WeaatherForecastApp.csproj",
+  "projectFilePath": "C:\\Users\\adars\\OneDrive\\Desktop\\Azure-Assesment\\managed-identity-app-config\\WeaatherForecastApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adars\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\adars\\.nuget\\packages\\azure.data.appconfiguration\\1.2.1\\azure.data.appconfiguration.1.2.1.nupkg.sha512",
